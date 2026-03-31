@@ -93,13 +93,11 @@ Avg Discount % = AVERAGE(transactions[Discount])
 
 ### Instructions
 
-1. **Download the dashboard:**
-   ```bash
-   git clone https://github.com/yourusername/global-fashion-retail-analytics.git
-
-2. **Open in Power BI:**
-   - Navigate to `dashboard/` folder
-   - Open `Global_Fashion_Retail_Dashboard.pbix`
+1. Download the .pbit file
+2. Open in Power BI Desktop
+3. You'll be prompted to enter the data source path
+4. Point to your local CSV files
+5. The dashboard will generate automatically
 
 3. **Explore:**
    - Use slicers to filter by country, date, and category
