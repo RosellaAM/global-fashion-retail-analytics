@@ -99,7 +99,8 @@ Avg Discount % = AVERAGE(transactions[Discount])
 4. Point to your local CSV files
 5. The dashboard will generate automatically
 
-3. **Explore:**
+
+**Explore:**
    - Use slicers to filter by country, date, and category
    - Hover over visuals for detailed tooltips
    - Navigate between 3 dashboard pages
