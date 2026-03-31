@@ -19,15 +19,15 @@ This project demonstrates end-to-end Business Intelligence capabilities:
 ## 📈 Dashboard Preview
 
 ### Page 1: Executive Overview
-![Executive Overview](screenshots/01-executive-overview.png)
+![Executive Overview](screenshots01-executive-overview.png)
 *High-level KPIs, revenue trends, and geographic performance*
 
 ### Page 2: Customer Insights
-![Customer Insights](screenshots/02-customer-insights.png)
+![Customer Insights](screenshots02-customer-insights.png)
 *Customer segmentation, repeat purchase analysis, and top customers*
 
 ### Page 3: Product Performance
-![Product Performance](screenshots/03-product-performance.png)
+![Product Performance](screenshots03-product-performance.png)
 *Category performance, discount impact, and product rankings*
 
 ---
